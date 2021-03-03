@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Index.html</title>
+    <!-- I change the title -->
   </head>
   <body>
     <h1>
-    <!-- je cree un "h1" -->
+    <!-- I create "h1" -->
     </h1>
     <h2>
-    <!-- je cree un "h2" -->
+    <!-- I create "h2" -->
     </h2>
   </body>
 </html>
